@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\ReaderAndWriterCSV\ReaderAndWriterCSV\bin\Debug\ReaderAndWriterCSV.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ReaderAndWriterCSV\ReaderAndWriterCSV\obj\Debug\ReaderAndWriterCSV.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\ReaderAndWriterCSV\ReaderAndWriterCSV\bin\Debug\ReaderAndWriterCSV.exe
+c:\users\admin\documents\visual studio 2013\Projects\ReaderAndWriterCSV\ReaderAndWriterCSV\bin\Debug\ReaderAndWriterCSV.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ReaderAndWriterCSV\ReaderAndWriterCSV\obj\Debug\ReaderAndWriterCSV.exe
+c:\users\admin\documents\visual studio 2013\Projects\ReaderAndWriterCSV\ReaderAndWriterCSV\obj\Debug\ReaderAndWriterCSV.pdb
